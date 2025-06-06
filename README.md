@@ -67,7 +67,7 @@ src/
 └── App.jsx
 
 
-A place holder image was used because the API test did not return images in the response
+A place holder image was used because the API test did not return images in the response. Example API response I got.
 
         "id": 6565,
         "size": 4,

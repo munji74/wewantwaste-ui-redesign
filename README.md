@@ -97,11 +97,12 @@ If given more time, improvements could include:
 
 ---
 
-## 🙌 Author
+## Coder
 
 **Munjwok James Alala**  
 Frontend Developer | React Developer  
 [GitHub](https://github.com/munji74) · [LinkedIn](https://www.linkedin.com/in/munjwok-james-alala-4b5416327/)
++256753257102 | munjijames02@gmail.com
 
 ---
 

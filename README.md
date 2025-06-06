@@ -49,7 +49,8 @@ Redesigned the "Choose Your Skip Size" page from https://wewantwaste.co.uk to de
 ## 📂 Folder Structure
 
 src/
-├── assets/ # Images (e.g. skip-placeholder)
+
+├── assets/  Images (skip-placeholder) 
 
 ├── components/ # Reusable UI components
 
@@ -66,6 +67,22 @@ src/
 └── App.jsx
 
 
+A place holder image was used because the API test did not return images in the response
+
+        "id": 6565,
+        "size": 4,
+        "hire_period_days": 14,
+        "transport_cost": null,
+        "per_tonne_cost": null,
+        "price_before_vat": 211,
+        "vat": 20,
+        "postcode": "LE10",
+        "area": "Hinckley",
+        "forbidden": false,
+        "created_at": "2025-04-03T13:51:27.691958",
+        "updated_at": "2025-04-07T13:07:10.532",
+        "allowed_on_road": true,
+        "allows_heavy_waste": true
 
 ---
 

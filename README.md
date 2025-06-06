@@ -21,7 +21,7 @@ Redesigned the "Choose Your Skip Size" page from https://wewantwaste.co.uk to de
 - Fluid grid system adapts across phone, tablet, and desktop viewports
 
 ### 🔌 3. **Live API Integration**
-- Skip size data is fetched from the provided endpoint: https://app.wewantwaste.co.uk/api/skips/by-location?postcode=LE10%201SH&area=Hinckley
+- Skip size data is fetched from the provided endpoint: https://app.wewantwaste.co.uk/api/skips/by-location?postcode=NR32&area=Lowestoft  With my postcode being LE10%201SH and area being Hinckley
 
 
 - Dynamic rendering of size, price, road permission, and waste support

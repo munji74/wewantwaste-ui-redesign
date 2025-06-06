@@ -39,7 +39,7 @@ Redesigned the "Choose Your Skip Size" page from https://wewantwaste.co.uk to de
 
 ## 🧑‍💻 Tech Stack
 
-- **Framework:** React (Vite)
+- **Framework:** React 
 - **Styling:** Tailwind CSS
 - **Icons:** React Icons
 - **API:** Axios
@@ -50,12 +50,19 @@ Redesigned the "Choose Your Skip Size" page from https://wewantwaste.co.uk to de
 
 src/
 ├── assets/ # Images (e.g. skip-placeholder)
+
 ├── components/ # Reusable UI components
+
 │ ├── SkipCard.jsx
+
 │ ├── SkipGrid.jsx
+
 │ └── ProgressSteps.jsx
+
 ├── pages/
+
 │ └── SkipSelector.jsx # Main page logic
+
 └── App.jsx
 
 
